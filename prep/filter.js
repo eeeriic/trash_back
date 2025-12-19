@@ -14,7 +14,7 @@ async function readItems() {
     };
 
     // absolute path because i dont want to call the api several times just to download items
-    const raw = await fs.readFile("../data/items.json", "utf-8");
+    const raw = await fs.readFile("./data/items.json", "utf-8");
     const data = JSON.parse(raw);
 
     // single pass
@@ -56,7 +56,7 @@ async function readItems() {
         }
     }
 
-    return categories;
+    await fs.writeFile("./data/categories.json", JSON.stringify(categories, null, 2));
 }
 
 module.exports = readItems;

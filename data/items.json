@@ -1,5 +1,5 @@
 {
-  "apiVersion": "0.22.4",
+  "apiVersion": "0.22.7",
   "data": [
     {
       "id": "54aae292e7798909064f1575",
@@ -71718,6 +71718,1066 @@
           "icon": "items/images/en/kestrel_prime_blade.4d27b989c37deb1e2a0ec4499e69c874.webp",
           "thumb": "items/images/en/thumbs/kestrel_prime_blade.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp",
           "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "6939b6fd5d9ebda239125d36",
+      "slug": "axi_t13_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeB",
+      "tags": [
+        "relic",
+        "axi"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Axi T13 Relic",
+          "icon": "items/images/en/axi_t13_relic.a5484024a9f5498b339499cd10cb825f.webp",
+          "thumb": "items/images/en/thumbs/axi_t13_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b6fe5d9ebda239125d37",
+      "slug": "axi_a20_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeA",
+      "tags": [
+        "relic",
+        "axi"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Axi A20 Relic",
+          "icon": "items/images/en/axi_a20_relic.a5484024a9f5498b339499cd10cb825f.webp",
+          "thumb": "items/images/en/thumbs/axi_a20_relic.a5484024a9f5498b339499cd10cb825f.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b6ff5d9ebda239125d38",
+      "slug": "neo_t10_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeE",
+      "tags": [
+        "neo",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Neo T10 Relic",
+          "icon": "items/images/en/neo_t10_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+          "thumb": "items/images/en/thumbs/neo_t10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7005d9ebda239125d39",
+      "slug": "neo_o3_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeD",
+      "tags": [
+        "neo",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Neo O3 Relic",
+          "icon": "items/images/en/neo_o3_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+          "thumb": "items/images/en/thumbs/neo_o3_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7015d9ebda239125d3a",
+      "slug": "neo_c7_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeC",
+      "tags": [
+        "neo",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Neo C7 Relic",
+          "icon": "items/images/en/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+          "thumb": "items/images/en/thumbs/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7025d9ebda239125d3b",
+      "slug": "neo_p9_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeB",
+      "tags": [
+        "neo",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Neo P9 Relic",
+          "icon": "items/images/en/neo_p9_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+          "thumb": "items/images/en/thumbs/neo_p9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7025d9ebda239125d3c",
+      "slug": "neo_k9_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeA",
+      "tags": [
+        "neo",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Neo K9 Relic",
+          "icon": "items/images/en/neo_k9_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+          "thumb": "items/images/en/thumbs/neo_k9_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7035d9ebda239125d3d",
+      "slug": "meso_x1_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeF",
+      "tags": [
+        "meso",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Meso X1 Relic",
+          "icon": "items/images/en/meso_x1_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+          "thumb": "items/images/en/thumbs/meso_x1_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7045d9ebda239125d3e",
+      "slug": "meso_a9_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeE",
+      "tags": [
+        "meso",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Meso A9 Relic",
+          "icon": "items/images/en/meso_a9_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+          "thumb": "items/images/en/thumbs/meso_a9_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7055d9ebda239125d3f",
+      "slug": "meso_y1_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeD",
+      "tags": [
+        "meso",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Meso Y1 Relic",
+          "icon": "items/images/en/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+          "thumb": "items/images/en/thumbs/meso_y1_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7065d9ebda239125d40",
+      "slug": "meso_v14_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeC",
+      "tags": [
+        "meso",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Meso V14 Relic",
+          "icon": "items/images/en/meso_v14_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+          "thumb": "items/images/en/thumbs/meso_v14_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7075d9ebda239125d41",
+      "slug": "meso_p17_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeB",
+      "tags": [
+        "meso",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Meso P17 Relic",
+          "icon": "items/images/en/meso_p17_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+          "thumb": "items/images/en/thumbs/meso_p17_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7085d9ebda239125d42",
+      "slug": "meso_v13_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeA",
+      "tags": [
+        "meso",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Meso V13 Relic",
+          "icon": "items/images/en/meso_v13_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+          "thumb": "items/images/en/thumbs/meso_v13_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b7095d9ebda239125d43",
+      "slug": "lith_g14_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeD",
+      "tags": [
+        "lith",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Lith G14 Relic",
+          "icon": "items/images/en/lith_g14_relic.78903ffe750d335f05034144948ad67d.webp",
+          "thumb": "items/images/en/thumbs/lith_g14_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b70a5d9ebda239125d44",
+      "slug": "lith_n18_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeC",
+      "tags": [
+        "lith",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Lith N18 Relic",
+          "icon": "items/images/en/lith_n18_relic.78903ffe750d335f05034144948ad67d.webp",
+          "thumb": "items/images/en/thumbs/lith_n18_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939b70b5d9ebda239125d45",
+      "slug": "lith_d7_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeA",
+      "tags": [
+        "lith",
+        "relic"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": false,
+      "i18n": {
+        "en": {
+          "name": "Lith D7 Relic",
+          "icon": "items/images/en/lith_d7_relic.78903ffe750d335f05034144948ad67d.webp",
+          "thumb": "items/images/en/thumbs/lith_d7_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5d8d6a357b81964f85f",
+      "slug": "arcane_persistence",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MaxDPSTakenForArmour",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Arcane Persistence",
+          "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+          "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5d9d6a357b81964f860",
+      "slug": "arcane_expertise",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/ShieldMaxForAbilityStrength",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Arcane Expertise",
+          "icon": "items/images/en/arcane_expertise.2af40ec68fa1c088e680d32727c186fc.webp",
+          "thumb": "items/images/en/thumbs/arcane_expertise.2af40ec68fa1c088e680d32727c186fc.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5dad6a357b81964f861",
+      "slug": "arcane_circumvent",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/StealDefensiveStatsOnRoll",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Arcane Circumvent",
+          "icon": "items/images/en/arcane_circumvent.961100ef755581993133c15d34f04f53.webp",
+          "thumb": "items/images/en/thumbs/arcane_circumvent.961100ef755581993133c15d34f04f53.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5dcd6a357b81964f862",
+      "slug": "primary_bulwark",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DamageForBonusArmour",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Primary Bulwark",
+          "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+          "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5ddd6a357b81964f863",
+      "slug": "primary_overcharge",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MultishotForMaxEnergy",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Primary Overcharge",
+          "icon": "items/images/en/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.webp",
+          "thumb": "items/images/en/thumbs/primary_overcharge.069849f8d95a4cd0622f80103e8bdccc.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5ded6a357b81964f864",
+      "slug": "secondary_irradiate",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/RadialDamageOnMaxRadiationStackHit",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Secondary Irradiate",
+          "icon": "items/images/en/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.webp",
+          "thumb": "items/images/en/thumbs/secondary_irradiate.a2db94825da26ca2ba5e5b9e3350bf6d.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5e0d6a357b81964f865",
+      "slug": "primary_debilitate",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SplitStatusProcsOnStackedStatusHit",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Primary Debilitate",
+          "icon": "items/images/en/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.webp",
+          "thumb": "items/images/en/thumbs/primary_debilitate.4c0642227aae65cbd63dee27d8fafa48.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5e1d6a357b81964f866",
+      "slug": "arcane_concentration",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityDurationOnCast",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Arcane Concentration",
+          "icon": "items/images/en/arcane_concentration.8241161cbae0706e313693aef592b971.webp",
+          "thumb": "items/images/en/thumbs/arcane_concentration.8241161cbae0706e313693aef592b971.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6939d5e3d6a357b81964f867",
+      "slug": "melee_careen",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Utility/FreezeEnemiesOnRoll",
+      "tags": [
+        "rare",
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Melee Careen",
+          "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
+          "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693a1f69d6a357b81964f86f",
+      "slug": "harrowing_spire",
+      "gameRef": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/BayonetCmbOneMeleeTree",
+      "tags": [
+        "mod",
+        "rare",
+        "stance",
+        "bayonet"
+      ],
+      "maxRank": 3,
+      "i18n": {
+        "en": {
+          "name": "Harrowing Spire",
+          "icon": "items/images/en/harrowing_spire.aef3b0c06b16d837f9fe3c92ec2467b6.webp",
+          "thumb": "items/images/en/thumbs/harrowing_spire.aef3b0c06b16d837f9fe3c92ec2467b6.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e5a4f03903ae8993ffad6",
+      "slug": "lith_l7_relic",
+      "gameRef": "/Lotus/Types/Game/Projections/T1VoidProjectionGyrePrimeB",
+      "tags": [
+        "relic",
+        "lith"
+      ],
+      "subtypes": [
+        "intact",
+        "exceptional",
+        "flawless",
+        "radiant"
+      ],
+      "vaulted": true,
+      "i18n": {
+        "en": {
+          "name": "Lith L7 Relic",
+          "icon": "items/images/en/lith_l7_relic.78903ffe750d335f05034144948ad67d.webp",
+          "thumb": "items/images/en/thumbs/lith_l7_relic.78903ffe750d335f05034144948ad67d.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e62c903903ae8993ffad8",
+      "slug": "roathes_oblivion_arena",
+      "gameRef": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDevilTowerUrielArena",
+      "tags": [
+        "simulacrum"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Roathe's Oblivion Arena",
+          "icon": "items/images/en/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.webp",
+          "thumb": "items/images/en/thumbs/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e633e03903ae8993ffada",
+      "slug": "lyons_room_scene",
+      "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileProtoframeRoomHarrow",
+      "tags": [
+        "misc",
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Lyon's Room Scene",
+          "icon": "items/images/en/lyons_room_scene.eb82c72f5f2c11e75e44645e7cef7d37.webp",
+          "thumb": "items/images/en/thumbs/lyons_room_scene.eb82c72f5f2c11e75e44645e7cef7d37.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e634903903ae8993ffadc",
+      "slug": "maries_room_scene",
+      "gameRef": "/Lotus/Types/Items/MiscItems/PhotoboothTileProtoframeRoomWisp",
+      "tags": [
+        "misc",
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Marie's Room Scene",
+          "icon": "items/images/en/maries_room_scene.de84f6a0ac6f5835e9bec8820b2d5163.webp",
+          "thumb": "items/images/en/thumbs/maries_room_scene.de84f6a0ac6f5835e9bec8820b2d5163.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e639803903ae8993ffade",
+      "slug": "la_cathédrale_scene",
+      "gameRef": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceCathedral1799ProtoframeRoom",
+      "tags": [
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "La Cathédrale Scene",
+          "icon": "items/images/en/la_cathédrale_scene.bbbae686c3cf0214278a845af1636ceb.webp",
+          "thumb": "items/images/en/thumbs/la_cathédrale_scene.bbbae686c3cf0214278a845af1636ceb.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e63a903903ae8993ffae0",
+      "slug": "boro_overlook_scene",
+      "gameRef": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntBoroOverlook",
+      "tags": [
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Boro Overlook Scene",
+          "icon": "items/images/en/boro_overlook_scene.6a8ee793913560578298787065094ecd.webp",
+          "thumb": "items/images/en/thumbs/boro_overlook_scene.6a8ee793913560578298787065094ecd.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e63b703903ae8993ffae2",
+      "slug": "makvos_cannon_scene",
+      "gameRef": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntMakvossCannon",
+      "tags": [
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Makvos Cannon Scene",
+          "icon": "items/images/en/makvos_cannon_scene.81876f69471ffa9edbc3bde009de088b.webp",
+          "thumb": "items/images/en/thumbs/makvos_cannon_scene.81876f69471ffa9edbc3bde009de088b.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e63ca03903ae8993ffae4",
+      "slug": "world_seeder_scene",
+      "gameRef": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntTerraformerEgg",
+      "tags": [
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "World-Seeder Scene",
+          "icon": "items/images/en/world_seeder_scene.75fdc86c82b2232e91ee25d5662b5fd1.webp",
+          "thumb": "items/images/en/thumbs/world_seeder_scene.75fdc86c82b2232e91ee25d5662b5fd1.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e63d603903ae8993ffae6",
+      "slug": "trauma_manifestation_arena",
+      "gameRef": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceObjLiminalBossArena",
+      "tags": [
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Trauma Manifestation Arena",
+          "icon": "items/images/en/trauma_manifestation_arena.b2f1814e9f5231d8d222f62bc99e7ac5.webp",
+          "thumb": "items/images/en/thumbs/trauma_manifestation_arena.b2f1814e9f5231d8d222f62bc99e7ac5.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e63e603903ae8993ffae8",
+      "slug": "fort_tennadis_scene",
+      "gameRef": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceQuestFortTennadis",
+      "tags": [
+        "scene"
+      ],
+      "i18n": {
+        "en": {
+          "name": "Fort Tennadis Scene",
+          "icon": "items/images/en/fort_tennadis_scene.a7a64d0697ab881908ba358f5740ccb9.webp",
+          "thumb": "items/images/en/thumbs/fort_tennadis_scene.a7a64d0697ab881908ba358f5740ccb9.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e642103903ae8993ffaea",
+      "slug": "ubri_kaneph",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/WeaponDamageSchools",
+      "tags": [
+        "mod",
+        "rare",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Ubri-Kaneph",
+          "icon": "items/images/en/ubri_kaneph.a2aeae39ce6c57d304d359f4e9a5702e.webp",
+          "thumb": "items/images/en/thumbs/ubri_kaneph.a2aeae39ce6c57d304d359f4e9a5702e.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e655003903ae8993ffaec",
+      "slug": "sey_taph",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/VoidSlingEfficiency",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Sey-Taph",
+          "icon": "items/images/en/sey_taph.9db8bc6889aabc29f3704380a864e208.webp",
+          "thumb": "items/images/en/thumbs/sey_taph.9db8bc6889aabc29f3704380a864e208.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e65e103903ae8993ffaee",
+      "slug": "lashta_vak",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/VoidSlingCrateBreaker",
+      "tags": [
+        "mod",
+        "rare",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Lashta-Vak",
+          "icon": "items/images/en/lashta_vak.cb9be622c064361a7328a41536fbc0b5.webp",
+          "thumb": "items/images/en/thumbs/lashta_vak.cb9be622c064361a7328a41536fbc0b5.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e660b03903ae8993ffaf0",
+      "slug": "empazu_shol",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/UltimateInitialChargeSchools",
+      "tags": [
+        "mod",
+        "rare",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Empazu-Shol",
+          "icon": "items/images/en/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.webp",
+          "thumb": "items/images/en/thumbs/empazu_shol.6043bd6b8c9b40dd3bf6aa9b0cc0cc50.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e662903903ae8993ffaf2",
+      "slug": "metem_erun",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/SuperSpeedSchools",
+      "tags": [
+        "mod",
+        "rare",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Metem-Erun",
+          "icon": "items/images/en/metem_erun.e29f0edfce0b6ec7b97c2173c386f07f.webp",
+          "thumb": "items/images/en/thumbs/metem_erun.e29f0edfce0b6ec7b97c2173c386f07f.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e664703903ae8993ffaf4",
+      "slug": "da_ren",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/ShieldSchool",
+      "tags": [
+        "mod",
+        "uncommon",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Da-Ren",
+          "icon": "items/images/en/da_ren.59544028c25f11c7b4026d27caad3446.webp",
+          "thumb": "items/images/en/thumbs/da_ren.59544028c25f11c7b4026d27caad3446.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e669403903ae8993ffaf6",
+      "slug": "ulashta_shol",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/ReduceDeathEffect",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 3,
+      "i18n": {
+        "en": {
+          "name": "Ulashta-Shol",
+          "icon": "items/images/en/ulashta_shol.f2e459b74a56e0102ee2c0c65e420cb7.webp",
+          "thumb": "items/images/en/thumbs/ulashta_shol.f2e459b74a56e0102ee2c0c65e420cb7.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e66b603903ae8993ffaf8",
+      "slug": "sil_tabol",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/ProcChanceSchool",
+      "tags": [
+        "mod",
+        "uncommon",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Sil-Tabol",
+          "icon": "items/images/en/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.webp",
+          "thumb": "items/images/en/thumbs/sil_tabol.c57d85f64a950adf8a4c46097d3ad05c.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e693a03903ae8993ffafa",
+      "slug": "evir_ti",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/JumpHeight",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 3,
+      "i18n": {
+        "en": {
+          "name": "Evir-Ti",
+          "icon": "items/images/en/evir_ti.a8e1555eebd40f65569b68ecb924a1c0.webp",
+          "thumb": "items/images/en/thumbs/evir_ti.a8e1555eebd40f65569b68ecb924a1c0.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e697303903ae8993ffafc",
+      "slug": "yar_dal",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/HealthMax",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Yar Dal",
+          "icon": "items/images/en/yar_dal.9aeb57720d58f4011851bf725809857c.webp",
+          "thumb": "items/images/en/thumbs/yar_dal.9aeb57720d58f4011851bf725809857c.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e69a403903ae8993ffafe",
+      "slug": "metem_hakh",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/HealthAndShieldSchools",
+      "tags": [
+        "mod",
+        "rare",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Metem-Hakh",
+          "icon": "items/images/en/metem_hakh.7a92c22e778c4f7e98b7ad6f3f090fd3.webp",
+          "thumb": "items/images/en/thumbs/metem_hakh.7a92c22e778c4f7e98b7ad6f3f090fd3.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6a7803903ae8993ffb00",
+      "slug": "kaal_zidi",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/Ghostwalk",
+      "tags": [
+        "mod",
+        "uncommon",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Kaal-Zidi",
+          "icon": "items/images/en/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.webp",
+          "thumb": "items/images/en/thumbs/kaal_zidi.edc5a3c1e1630c4a1d8f843529ee5c9c.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6a9603903ae8993ffb02",
+      "slug": "vikla_safor",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/FireRateAndEfficiency",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Vikla-Safor",
+          "icon": "items/images/en/vikla_safor.f0035498c4194ca08356392bbafc79b1.webp",
+          "thumb": "items/images/en/thumbs/vikla_safor.f0035498c4194ca08356392bbafc79b1.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6ab703903ae8993ffb04",
+      "slug": "talsek_an",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/EnterVoidModeOnKnockdown",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Talsek-An",
+          "icon": "items/images/en/talsek_an.3535ca5d186e82c89e2f51d18128c003.webp",
+          "thumb": "items/images/en/thumbs/talsek_an.3535ca5d186e82c89e2f51d18128c003.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6add03903ae8993ffb06",
+      "slug": "esti_vel_ikha",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/DashDistanceSchools",
+      "tags": [
+        "mod",
+        "rare",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Esti Vel-Ikha",
+          "icon": "items/images/en/esti_vel_ikha.e085545ccecd182c4ee58db16da03b12.webp",
+          "thumb": "items/images/en/thumbs/esti_vel_ikha.e085545ccecd182c4ee58db16da03b12.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6afd03903ae8993ffb08",
+      "slug": "hok_kaal",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/DamageWhileInvisible",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Hok-Kaal",
+          "icon": "items/images/en/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.webp",
+          "thumb": "items/images/en/thumbs/hok_kaal.c0c4e0b2a5f76c9d3ee1a7ed04551822.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6b2403903ae8993ffb0a",
+      "slug": "omn_evi",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/CritChanceSchool",
+      "tags": [
+        "mod",
+        "uncommon",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Omn-Evi",
+          "icon": "items/images/en/omn_evi.e94fa423079abe78cc22f4683875c058.webp",
+          "thumb": "items/images/en/thumbs/omn_evi.e94fa423079abe78cc22f4683875c058.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6b4603903ae8993ffb0c",
+      "slug": "lorun_tash",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/AntiqueArmour",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 3,
+      "i18n": {
+        "en": {
+          "name": "Lorun-Tash",
+          "icon": "items/images/en/lorun_tash.59eb3c11a0553aea8d3a1f3ebcda9c5a.webp",
+          "thumb": "items/images/en/thumbs/lorun_tash.59eb3c11a0553aea8d3a1f3ebcda9c5a.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6b6b03903ae8993ffb0e",
+      "slug": "vik_anam",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/AmmoSchool",
+      "tags": [
+        "mod",
+        "uncommon",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Vik-Anam",
+          "icon": "items/images/en/vik_anam.aaa1420bbdd10329ec97469f7c6ccaf5.webp",
+          "thumb": "items/images/en/thumbs/vik_anam.aaa1420bbdd10329ec97469f7c6ccaf5.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "693e6bb103903ae8993ffb10",
+      "slug": "hayan_dabor",
+      "gameRef": "/Lotus/Upgrades/Mods/Antiques/Multishot",
+      "tags": [
+        "mod",
+        "common",
+        "any"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Hayan-Dabor",
+          "icon": "items/images/en/hayan_dabor.5ce755e0c9ecd126fd9151727dd34410.webp",
+          "thumb": "items/images/en/thumbs/hayan_dabor.5ce755e0c9ecd126fd9151727dd34410.128x128.webp"
         }
       }
     }
