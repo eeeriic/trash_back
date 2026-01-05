@@ -13,6 +13,7 @@ async function price() {
                 prices[slug] = plat
             } catch(err) {
                 console.log(err)
+                console.log(`${slug} - FAILED`)
                 prices[slug] = null
             }
         }

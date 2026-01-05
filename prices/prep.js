@@ -7,11 +7,11 @@ async function prep() {
 
     // get only the names of the items and separate by key inside the slugs obj
     const slugs = {
-        primes: data.primes.map(i => i.slug),
-        prime_sets: data.prime_sets.map(i => i.slug),
-        weapons: data.weapons.map(i => i.slug),
+        warframe_parts: data.primes.map(i => i.slug),
+        warframe_sets: data.prime_sets.map(i => i.slug),
+        weapon_parts: data.weapons.map(i => i.slug),
         weapon_sets: data.weapon_sets.map(i => i.slug),
-        companions: data.companions.map(i => i.slug),
+        companion_parts: data.companions.map(i => i.slug),
         companion_sets: data.companion_sets.map(i => i.slug),
         arcanes: data.arcanes.map(i => i.slug),
     };
