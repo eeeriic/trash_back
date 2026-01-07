@@ -18,7 +18,7 @@ async function price() {
     }
     
     await fs.writeFile(
-        `./pricesData/sets.json`, // hardcoded but what can i do
+        `./pricesData/warframe_sets.json`, // hardcoded but what can i do
         JSON.stringify(prices, null, 2)
     )
 }
