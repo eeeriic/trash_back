@@ -2,7 +2,7 @@ const fs = require("fs/promises");
 
 async function prep() {
     // read the categories.json file
-    const raw = await fs.readFile("./data/categories.json", "utf-8");
+    const raw = await fs.readFile("./data/raw_categories.json", "utf-8");
     const data = JSON.parse(raw);
 
     // get only the names of the items and separate by key inside the slugs obj
@@ -16,7 +16,10 @@ async function prep() {
         arcanes: data.arcanes.map(i => i.slug),
     };
 
-    return slugs
+    await fs.writeFile(
+        `./data/items.json`,
+        JSON.stringify(slugs, null, 2)
+    )
 }
 
-module.exports = prep;
+prep()

@@ -1,17 +1,16 @@
 const fs = require("fs/promises")
-const prep = require("../prices/prep.js")
-const getPrice = require("../prices/getPrice.js")
+const getPriceArcane = require("../prices/getPriceArcane.js")
 
 async function price() {
-    const sluggage = await prep()
     const prices = {}
     for (const [cat, slugs] of Object.entries(sluggage.arcanes)) {
         
         try {
-            const plat = await getPrice(slugs)
+            const plat = await getPriceArcane(slugs)
             prices[slugs] = plat
         } catch(err) {
             console.log(err)
+            console.log(slugs)
             prices[slugs] = null
         }
     }

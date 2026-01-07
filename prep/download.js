@@ -10,7 +10,7 @@ async function download() {
     const res = await fetch(`${PATH}items`);
     const data = await res.json();
 
-    await fs.writeFile("./data/items.json", JSON.stringify(data, null, 2));
+    await fs.writeFile("./data/raw_items.json", JSON.stringify(data, null, 2));
 
     console.log("items saved");
 }
