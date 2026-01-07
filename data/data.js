@@ -1,9 +1,11 @@
 const download = require("../prep/download");
 const filter = require("../prep/filter");
+const cleaning = require("../prep/cleaning")
 
 async function data() {
-    await download();   // waits until finished
-    await filter();     // runs only after download completes
+    await download();  
+    await filter();     
+    await cleaning();
 }
 
 data();

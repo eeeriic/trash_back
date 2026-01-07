@@ -3,7 +3,7 @@
 async function getPrice(slug) {
 
     const res = await fetch(
-    `https://api.warframe.market/v2/orders/item/${slug}`
+    `https://api.warframe.market/v2/orders/item/${slug}/top`
     );
     const json = await res.json()
     const sell = json.data.sell
